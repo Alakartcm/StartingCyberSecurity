@@ -131,6 +131,7 @@ In this section we will discuss the importance of practical experience and how y
 1. CTF's and Cyber Ranges
 2. Participate in Training
 3. Home Lab
+4. Obtain Certifications
 
 ### CTF's & Cyber Ranges
 
@@ -158,6 +159,8 @@ Training can sound daunting at first and on the surface can look expensive in so
 The Cyber Mentor [YouTube](https://www.youtube.com/@TCMSecurityAcademy) (free content) & [Academy](https://academy.tcm-sec.com/) (Low Cost & Free Learning paths)
 [justhacking](https://www.justhacking.com/)
 [coursera](https://www.coursera.org/)
+[AWS Skill Builder](https://aws.amazon.com/training/digital/)
+[Professor Messer](https://www.professormesser.com/)
 
 ### Home Lab
 
@@ -174,3 +177,58 @@ Below I have linked to some useful home lab resources that could be beneficial w
 [r/homelab](https://www.reddit.com/r/homelab/comments/15jt90s/new_rhomelab_users_start_here/)
 [Joe Karlsson](https://www.joekarlsson.com/2023/09/how-to-get-started-building-a-homelab-server-in-2024/)
 [10 tips for homelab 2025](https://www.youtube.com/watch?v=Y7yaDAnD_xc)
+
+
+### Obtain Certifications
+
+Another way to practice your skills is to pursue certifications. Certifications demonstrate that you have obtained a certain body of knowledge as well as a desire to improve your skills. The amount of certifications can be a bit overwhelming, so below I have provided resources below that could help you align your goals with relevant certifications. It is beyond the scope of this project to discuss certification paths, but there is certainly content out there that can help. Please note this is not an endorsement for any certification or the entities who provide them. 
+
+
+[Cyber Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+[CyberDefenders Roadmap](https://cyberdefenders.org/community/cybersecurity-roadmap/)
+
+Another thing to note is that if you participate in training as noted above, some trainings can also lead to certifications. 
+
+## Prepare a Portfolio
+
+### Summary
+
+It is likely if you are interviewing, you already have a resume. While that is a great start, I prefer to have a toolbox of different tools I can leverage to demonstrate my commitment to improve, passion for the industry, and technical knowledge. We will call this our portfolio. What can go into a portfolio?
+
+1. Resume
+2. Social Media
+3. Bodies of Work
+### Resume
+
+As mentioned in the summary, a resume is a great starting point. This is the first thing an employer is going to see. Writing effective resume's is a topic that has been covered in great detail on the internet,  so I will point you to some of my favorite content on the subject:
+
+[Cyber Insecurity Resume Reviews](https://www.youtube.com/watch?v=wejL0ll__uQ&list=PLqEPHR4iX_BJRT6qDSSNy2sWgbaPlxx1p)
+[Some example resume templates](https://resumeworded.com/cyber-security-resume-examples#cyber-security-analyst)
+[Beam Jobs](https://www.beamjobs.com/resumes/cyber-security-resume-examples)
+
+### Social Media
+
+#### Words of Caution
+
+Before we dive into this topic, I would like to offer some advice. If you are going to use social media as a part of your portfolio, you are essentially representing your "professional self" on these accounts. My advice would be to either create a separate account for your professional posts and activities, or keep your social media clean of any potentially embarrassing behavior (meaning anything you wouldn't want your employer to see).
+
+Using a social media presence as part of your portfolio comes with it's own risks. You are exposing a public persona to the wider internet for better or worse. It is potentially opening you harassment, doxing, or other negative interactions. I would suggest that you start with something relatively safe like LinkedIn and move on to other platforms if you feel the desire to.
+
+### Use Cases
+
+So why use social media as part of your portfolio? it represents a public presence and engagement with the industry. I have included some examples below of how some platforms can be used:
+
+1. [Linkedin](https://www.linkedin.com/)- The premier career oriented social media platform. Obvious uses for this platform are searching and applying for roles (which we will cover in a later section). Imagine this, you are hiring for a junior cyber security analyst and you receive 2 applicants through LinkedIn. Candidate 1 has posts regarding things they are learning, news articles they found interesting, and positive comments on other posts. Candidate 2 has a profile that is a ghost town outside of a couple "looking for work" posts. Which candidate sounds more appealing? LinkedIn is a great platform to talk about certifications and projects you are working on as well as sharing interesting media related to your profession. Make efforts to add some content on a regular basis.
+2. [X](https://x.com/)/[Mastodon](https://joinmastodon.org/)/[BlueSky](https://bsky.app/)- I have grouped these sites together for the purpose of simplicity. As mentioned above, following prominent figures in the industry has it's own advantages. Taking it a step further and interacting with industry professionals, sharing insightful posts, and even writing your own posts demonstrates active engagement in the community. 
+
+
+### Bodies of Work
+
+A body of work can be anything you can reference as having worked on. From your own website to a code repository you can demonstrate competence, experience, and growth by adding this to your portfolio. Examples:
+
+1. Personal Website
+2. Blog Posts
+3. Code Repository
+4. Contributions to Opensource Projects
+
+
