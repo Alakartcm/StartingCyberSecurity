@@ -38,7 +38,7 @@ Another example when applying for a vulnerability analyst role at a financial in
 
 Both of these questions show that you have taken an interest in your career and that you can add value to team that is hiring.
 
-### Staying up to date?
+### Staying up to date
 
 Cyber security moves quickly and the volume of news is almost impossible to keep up with across all of Cybersecurity. Creating your own news feeds that fit you specific targeted role is can go a long way to being able to quickly come up to speed on recent events. Ways I have done this in the past:
 
@@ -87,3 +87,22 @@ What I have listed below either have free options and/or low cost options to sta
 Training can sound daunting at first and on the surface can look expensive in some cases! Our goal is to keep costs down and the quality high! What I have listed below are some free or low cost training resources that might be of use.
 
 [antisyphon training](https://www.antisyphontraining.com/pay-forward-what-you-can/)
+The Cyber Mentor [YouTube](https://www.youtube.com/@TCMSecurityAcademy) (free content) & [Academy](https://academy.tcm-sec.com/) (Low Cost & Free Learning paths)
+[justhacking](https://www.justhacking.com/)
+[coursera](https://www.coursera.org/)
+
+### Home Lab
+
+#### What is a home lab?
+
+At it's core, a home lab is an environment you can use to experiment and practice your skills. The lab could be physical pieces of equipment, a virtual environment, or a cloud hosted solution. 
+
+#### Getting Started
+
+How do you get started with a home lab? My personal recommendation is to begin with a type2 hypervisor such as [Virtual Box](https://www.virtualbox.org/) and begin small. Another option would be find an old server second hand (such as on ebay or your college) that support virtualization and build a dedicated lab using a Type 1 hypervisor such as [proxmox](https://proxmox.com/en/).
+
+Below I have linked to some useful home lab resources that could be beneficial while exploring this option.
+
+[r/homelab](https://www.reddit.com/r/homelab/comments/15jt90s/new_rhomelab_users_start_here/)
+[Joe Karlsson](https://www.joekarlsson.com/2023/09/how-to-get-started-building-a-homelab-server-in-2024/)
+[10 tips for homelab 2025](https://www.youtube.com/watch?v=Y7yaDAnD_xc)
