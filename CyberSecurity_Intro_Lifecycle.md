@@ -227,8 +227,31 @@ So why use social media as part of your portfolio? it represents a public presen
 A body of work can be anything you can reference as having worked on. From your own website to a code repository you can demonstrate competence, experience, and growth by adding this to your portfolio. Examples:
 
 1. Personal Website
-2. Blog Posts
+2. Blog Posts/Podcasts/Video Content
 3. Code Repository
 4. Contributions to Opensource Projects
 
+#### Personal Website/Domain
+
+I am a big fan of this. Building your own website demonstrates some amount of technical fluency and allows you to either hose or link to your content such as contact info, resume, GitHub projects, YouTube channel, news feeds and more! This website can essentially be your personal brand. Think of this as the "show" to the resume's "tell". 
+
+#### Blog Posts/Podcasts/Video Content
+
+Making content related to the type of role you are looking for can be a big advantage. Like many other items discussed, it demonstrates passion and commitment. This can also allow potential employers the things you are working on and how it might relate to the role they are hiring for.
+
+#### Code Repository
+
+If you write any code that you feel making available to the world, host it in a public space and reference your work in your resume/online presence. Obviously do not share any code that might be proprietary to a previous role as this could lead to situations you would rather not be in. 
+
+#### Contribute to Opensource Projects
+
+There are tons of opensource projects out there. Being involved in them will help you three fold: 
+1. You can reference your work to your potential employers (see Code Repo Above)
+2. You will develop your skills by working on these projects
+3. You have the potential for networking with future colleagues. 
+
+
+## Preparing for the interview
+
+I know this step seems a little out of place. There is a method to my madness however! In my opinion, preparation for the interview starts before you apply for a role or speak to a recruiter. We've got to tools for the task, now let's land that role! 
 
