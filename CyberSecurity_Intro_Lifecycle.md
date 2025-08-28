@@ -255,3 +255,42 @@ There are tons of opensource projects out there. Being involved in them will hel
 
 I know this step seems a little out of place. There is a method to my madness however! In my opinion, preparation for the interview starts before you apply for a role or speak to a recruiter. We've got to tools for the task, now let's land that role! 
 
+What can we do to prepare for the interview?
+
+1. Comfort with the subject matter
+2. Knowing your worth
+3. Having an eye catching resume
+4. Knowing your limits
+
+### Comfort level with the subject matter
+
+You may be more or less comfortable with the material related to the role you seek than you think. How comfortable are you describing the "three way handshake" or "how a cross site scripting attack works". You may understand in your mind how these things work, but have you every tried explaining it? 
+
+Luckily, there are ways to practice. You could find a list of common interview questions for your role and answer them out loud. If might feel uncomfortable speaking when there is no one around to hear, but trust me it helps!
+
+If you have a mentor or a peer group you can converse with, discuss related topics with them! You will be amazed how quickly you learn to discuss these topics! 
+
+#### Interview Experience
+
+Similarly to the points above, gaining experience in an interview setting is a great way to prepare yourself for the real deal! Outside of sitting for actual interviews you can arrange a mock interview. A mock interview is exactly what it sounds like, it gives you the opportunity to practice your comfort level in an interview setting. Local career centers, mentor's, or peers might be willing to help you with this. Cyber Security Conventions and ISSA chapter's may also have these resource available. 
+
+
+### Knowing your worth
+
+Let's be honest, there are some less than ethical recruiting processes in the world. There will be those who want to hire top talent for bottom dollar. This is where you establish "your number". Your number is the very lowest amount you would be willing to work for. Don't forget to account for benefits in your estimation! If you go in knowing your bottom number you can navigate the hiring process much easier.
+
+Below I have provided some resources that may help you arrive at "your number". These are not perfect numbers, and always be sure to account for your situation and location. While Cyber Security is fun and experience is valuable but you need to earn enough to support yourself.
+
+[GlassDoor](https://www.glassdoor.com/Salaries/cyber-security-salary-SRCH_KO0,14.htm)
+[stationx](https://www.stationx.net/how-much-do-cyber-security-jobs-pay/)
+[coursera](https://www.coursera.org/articles/cybersecurity-salary)
+
+### Having an Eye Catching Resume
+
+As mentioned in the Portfolio Section, a resume is an important piece to the portfolio. It is the first impression an potential employer will get of you. the topic of writing resume's has been covered heavily on the internet, so I will not go into theory here. Instead, I will once again direct you to the [Cyber Insecurity](https://www.youtube.com/watch?v=wejL0ll__uQ&list=PLqEPHR4iX_BJRT6qDSSNy2sWgbaPlxx1p) channel and tell you the number one rule: DO NOT LIE ON YOUR RESUME. The ramifications of doing so could negatively impact your career for years to come.
+
+### Knowing Your Limits
+
+This is the counter point to comfort level. You need to accept you do not, nor will you be expected to, know everything. There are practitioners with decades of experience who don't know everything about their particular role. All of this to say be comfortable with saying "I don't know, but here is how I would find out.....". Being able to communicate you don't know the answer to a particular question but offering a methodology to discovering that answer is sometimes just as good or better than knowing the actual answer.
+
+TLDR: Not knowing is fine, but offer a solution to finding the answer.
