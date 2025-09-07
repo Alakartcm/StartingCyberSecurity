@@ -1,4 +1,6 @@
 
+# Prepare
+
 ## Summary
 
 The second phase of the life cycle is to prepare. During this phase we will prepare for interviews of our target roles. We can accomplish this by doing the following:
