@@ -1,0 +1,19 @@
+# Introduction
+
+Throughout my career I've been asked multiple times "How do I get into Cyber Security"? As this profession has become more and more integral to all sectors through the years I thought it was time to compile my thoughts and recommendations in a place I could easily reference and share. This idea evolved into what I am dubbing Cyber Security Intro Lifecycle (name is subject to change). 
+
+## Disclaimer
+
+This project is in no way a guarantee of employment and only reflects my experiences in the industry. Everyone's journey is different and I encourage you to seek out others and learn about their experiences as well! 
+
+## Cyber Security Intro Lifecycle
+
+1. Identify- Identify the type of job Cyber Security job you want.
+2. Prepare- Prepare yourself with the knowledge needed for the identified job.
+3. Hunt- Hunt for the types of jobs you identified or jobs that will provide experience to get you there. 
+4. Interview- Landing the job
+5. Grow- Grow within your new role, get what you can
+6. Repeat- Careers are long, your goals with grow and change.
+
+![Alt text](LifeCycle.png)
+(image generated using AI)
